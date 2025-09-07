@@ -1,4 +1,4 @@
-package com.example.javaLLM.service;
+package com.example.javaLLM.model;
 
 public class TextRequest {
     private String input;
