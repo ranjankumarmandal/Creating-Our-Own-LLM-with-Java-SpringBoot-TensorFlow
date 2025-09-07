@@ -46,6 +46,12 @@
 			<optional>true</optional>
 		</dependency>
 		<dependency>
+			<groupId>org.tensorflow</groupId>
+			<artifactId>tensorflow-core-platform</artifactId>
+			<version>0.5.0</version> <!-- Or latest -->
+			<type>pom</type>
+		</dependency>
+		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
 			<optional>true</optional>
